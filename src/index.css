@@ -1,0 +1,8 @@
+.loginBtn, .registerBtn {
+  background-color: black;
+  color: white;
+}
+
+.signUpContainer {
+  margin-right: 5px;
+}
